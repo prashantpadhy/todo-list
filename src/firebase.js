@@ -2,14 +2,14 @@ import { initializeApp } from "firebase/app";
 import { getDatabase } from "firebase/database";
 import { getAuth } from "firebase/auth";
 
-const firebaseConfig = {
-  apiKey: "AIzaSyDTF8VseayG2JUEckZX_3YoCrbgcG46O0U",
-  authDomain: "todo-list-d1eee.firebaseapp.com",
-  databaseURL: "https://todo-list-d1eee-default-rtdb.firebaseio.com",
-  projectId: "todo-list-d1eee",
-  storageBucket: "todo-list-d1eee.appspot.com",
-  messagingSenderId: "1038694320871",
-  appId: "1:1038694320871:web:b8483480e7552d6e6db042"
+apiKey: "AIzaSyCyLmVXIxoHsjl33uE-aKVyhXTbgXMuUlo",
+  authDomain: "todo-list-62dec.firebaseapp.com",
+  databaseURL: "https://todo-list-62dec-default-rtdb.firebaseio.com",
+  projectId: "todo-list-62dec",
+  storageBucket: "todo-list-62dec.appspot.com",
+  messagingSenderId: "581668231879",
+  appId: "1:581668231879:web:7788983876163b44563ce2",
+  measurementId: "G-TD4ZLWKGV5"
 };
 
 const app = initializeApp(firebaseConfig);
